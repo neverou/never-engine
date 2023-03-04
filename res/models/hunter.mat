@@ -1,0 +1,4 @@
+@shaders/basic.shader
+
+color 1 0 0 1
+mainTex textures/link_diff.png

@@ -1,0 +1,4 @@
+@shaders/basic.shader
+
+color 1 1 1 1
+mainTex textures/test_image.jpg

@@ -1,0 +1,5 @@
+@shaders/basic_normals.shader
+
+color     1 1 1 1
+mainTex   textures/cliff.jpg
+normalTex textures/cliff_normal.jpg
